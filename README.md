@@ -9,5 +9,6 @@ Commands are as follows:
 /patrolSO #Starts patrol as Sheriff's Office
 /patrolUSM #Starts patrol as US Marshal
 /patrolST #Starts patrol as State Trooper
+/endpatrol #Ends patrol regardless of department
 
 Further integration with QBCore and other frameworks as time moves on, for now I'm happy with it.
